@@ -1,7 +1,7 @@
 # ToDoList - Application Flask (MVC)
 
 Une application **ToDoList** simple et efficace développée en **Python avec Flask**, suivant le **modèle MVC (Modèle - Vue - Contrôleur)**.  
-Elle permet de créer, afficher, modifier et supprimer des tâches, tout en illustrant une architecture claire et maintenable.
+Elle permet de créer, afficher et supprimer des tâches, tout en illustrant une architecture claire et maintenable.
 
 ---
 
